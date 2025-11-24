@@ -16,3 +16,9 @@
        /      \          ,.-.="          =-                                                         
       /        \      ,'`        ""                                                                                  ldb
 ```
+
+<div align="center">
+ 
+![Counter](https://komarev.com/ghpvc/?username=kthlrv&color=FF5F1F&style=flat&label=Counter&abbreviated=true)
+ 
+</div>
